@@ -6,3 +6,4 @@ push.bat
 bin/
 .idea/
 *.iml
+books/*
