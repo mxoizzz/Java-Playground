@@ -10,6 +10,10 @@ public class MathPackage {
         System.out.println(Math.abs(-5));
         System.out.println(Math.floor(2.6));
         System.out.println(Math.ceil(2.4));
+        System.out.println(Math.round(2.5));
+        System.out.println(Math.random());
+        System.out.println(Math.random()*101);
+        System.out.println((int)(Math.random()*101));
 
     }
 }
