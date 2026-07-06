@@ -18,5 +18,11 @@ public class variables {
         int a = 10, b = 11, c = 7;
         System.out.println(a + b + c);
 
+        a = b = c = 50;
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+
+
     }
 }
