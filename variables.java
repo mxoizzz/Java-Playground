@@ -14,5 +14,9 @@ public class variables {
         System.out.println("Boolean: "+isSuccess);
         System.out.println("Character: "+ch);
 
+
+        int a = 10, b = 11, c = 7;
+        System.out.println(a + b + c);
+
     }
 }
